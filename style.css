@@ -373,7 +373,7 @@ section a{
 #about .col-left {
 	width: 250px;
 	height: 360px;
-	image:url(about.jpg);
+	
 }
 #about .col-right {
 	width: 100%;
@@ -408,6 +408,7 @@ section a{
 	width: 98%;
 	border: 7px solid rgb(132, 50, 226);;
 	z-index: -1;
+	image:url(about.jpg);
 }
 /* End About Section */
 
